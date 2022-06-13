@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811666346750",
+    "project_id": "clipz2",
+    "storage_bucket": "clipz2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811666346750:android:4859af704d95fcb8158baf",
+        "android_client_info": {
+          "package_name": "com.example.clipz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811666346750-4hli6s4kgtcnfgq27gj1sctp7d7042lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7htihWRIRRPHxM1vWdPgXj5Xld9vzw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811666346750-4hli6s4kgtcnfgq27gj1sctp7d7042lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
